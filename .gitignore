@@ -1,0 +1,9 @@
+*.pyc
+*.pyo
+*.mo
+*.swp
+*.DS_Store
+*.Trashes/
+*.fseventsd/
+*.egg-info/
+/local.ini
